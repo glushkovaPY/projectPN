@@ -9,4 +9,8 @@
 /* Подключение стилей относящихся к footer */
 @import "footer.css";
 /* Подключение стилей относящихся к main */ 
-@import "main.css"
+@import "main.css";
+/* Подключение стилей относящихся к normalize */
+@import "normalize.css";
+/* Подключение стилей относящихся к adaptability */
+@import "adaptability.css"

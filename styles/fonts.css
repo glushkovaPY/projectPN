@@ -1,8 +1,8 @@
 @font-face {
-    font-family: 'saira-extracondensed-light';
-    src: url('../fonts/saira-extracondensed-light.woff2') format('woff2'); 
+    font-family: 'roboto-regular';
+    src: url('../fonts/roboto-regular.woff2') format('woff2'); 
     font-weight: 400;
     font-style: normal;
     font-display: swap;
     
-}
+} 
